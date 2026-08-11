@@ -1,0 +1,2 @@
+# Retail-Sales-Profitability-Intelligence-Dashboard-Power-BI
+End-to-end Power BI analytics project analyzing 56K+ sales transactions across sales, customers, products, territories, and returns. Built a data model, performed Power Query ETL transformations, and developed DAX measures for revenue, gross profit, margins, YoY growth, covering sales performance, product profitability, uncovering revenue growth. 
