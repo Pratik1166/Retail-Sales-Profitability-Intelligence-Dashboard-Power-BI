@@ -1,0 +1,10 @@
+Tables: Description
+
+1. Customers: This table stores information about the company's customers. It includes data such as customer ID, name, contact details, and geographic location.
+2. Products: The Products table contains a list of products and related accessories sold by Magnus Works. Each product entry includes a unique product ID, name, category, and price.
+3. Subcategories: The table contains details of the subcategories assigned to every product.
+4. Categories: Categories table helps user to map every subcategory to a category.
+5. Sales: This table records details of each sale transaction made by the company. It includes data on the sale ID, customer ID, product ID, sale date, and quantity of items sold.
+6. Returns: The returns table contains data related to the product returns by customers at the date, territory id, and product id level.
+7. Territories: This table stores details about the territories across multiple countries.
+8. Calendar: The table has a list of all the dates of all three years. Every row of the table is uniquely defined by date.
